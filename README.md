@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**rashidofficialbwp-eng/rashidofficialbwp-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Rashid, an eCommerce Systems Specialist with 7+ years of experience building and managing Shopify & WooCommerce stores.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on  
+Improving eCommerce workflows and automation systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning  
+Advanced automation, data workflows, and system optimization  
+
+👯 I’m looking to collaborate on  
+eCommerce tools, Shopify/WooCommerce projects, and automation systems  
+
+💬 Ask me about  
+Shopify, WooCommerce, product data management, customer support systems  
+
+📫 How to reach me  
+Upwork | LinkedIn  
+
+😄 Pronouns  
+he/him  
+
+⚡ Fun fact  
+I turn manual store operations into scalable systems that save time and increase revenue
