@@ -2,23 +2,23 @@
 
 I'm Muhammad Rashid, an eCommerce Systems Specialist with 7+ years of experience building and managing Shopify & WooCommerce stores.
 
-🔭 I’m currently working on  
-Improving eCommerce workflows and automation systems  
+### 🚀 About Me
+🔭 Working on: eCommerce automation & workflow systems  
+🌱 Learning: Advanced automation, data workflows, system optimization  
+👯 Open to: Shopify, WooCommerce & automation projects  
+💬 Ask me about: Store operations, product data, customer systems  
+😄 Pronouns: he/him  
 
-🌱 I’m currently learning  
-Advanced automation, data workflows, and system optimization  
+### 🛠️ Tech & Tools
+Shopify | WooCommerce | Automation | Data Handling | Excel | Google Sheets | CRM Tools | Customer Support Systems
 
-👯 I’m looking to collaborate on  
-eCommerce tools, Shopify/WooCommerce projects, and automation systems  
+### 📊 GitHub Stats
+![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidofficialbwp-eng&show_icons=true&hide_border=true)
 
-💬 Ask me about  
-Shopify, WooCommerce, product data management, customer support systems  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidofficialbwp-eng&layout=compact&hide_border=true)
 
-📫 How to reach me  
-Upwork | LinkedIn  
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=rashidofficialbwp-eng&hide_border=true)
 
-😄 Pronouns  
-he/him  
-
-⚡ Fun fact  
-I turn manual store operations into scalable systems that save time and increase revenue
+### ⚡ Fun Fact
+I turn manual eCommerce operations into scalable systems that save time and increase revenue.
