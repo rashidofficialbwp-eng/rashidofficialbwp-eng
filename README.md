@@ -16,10 +16,5 @@ Shopify | WooCommerce | Excel | Google Sheets | CRM Systems | Automation Tools |
 - Upwork  
 - LinkedIn  
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidofficialbwp-eng&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidofficialbwp-eng&layout=compact&hide_border=true)
-
 ### ⚡ Fun Fact
 I build systems that not only sell products but also deliver fast, reliable customer support at scale.
