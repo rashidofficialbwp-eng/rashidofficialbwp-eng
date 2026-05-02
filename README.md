@@ -1,24 +1,25 @@
 ## Hi there 👋
 
-I'm Muhammad Rashid, an eCommerce Systems Specialist with 7+ years of experience building and managing Shopify & WooCommerce stores.
+### 👨‍💻 Who am I?
+I'm Muhammad Rashid, an eCommerce Systems Specialist with 7+ years of experience in Shopify and WooCommerce. I specialize in scalable store operations, automation workflows, product data management, and customer support systems.
 
-### 🚀 About Me
-🔭 Working on: eCommerce automation & workflow systems  
-🌱 Learning: Advanced automation, data workflows, system optimization  
-👯 Open to: Shopify, WooCommerce & automation projects  
-💬 Ask me about: Store operations, product data, customer systems  
-😄 Pronouns: he/him  
+### 🔭 What am I currently working on?
+- eCommerce automation systems  
+- Workflow optimization for online stores  
+- Customer support process improvement  
+- Product data management systems  
 
-### 🛠️ Tech & Tools
-Shopify | WooCommerce | Automation | Data Handling | Excel | Google Sheets | CRM Tools | Customer Support Systems
+### 🛠️ What tools do I use?
+Shopify | WooCommerce | Excel | Google Sheets | CRM Systems | Automation Tools | Customer Support Tools (Zendesk, Freshdesk, Gorgias)
+
+### 📫 How to reach me?
+- Upwork  
+- LinkedIn  
 
 ### 📊 GitHub Stats
-![Rashid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidofficialbwp-eng&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidofficialbwp-eng&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidofficialbwp-eng&layout=compact&hide_border=true)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=rashidofficialbwp-eng&hide_border=true)
-
 ### ⚡ Fun Fact
-I turn manual eCommerce operations into scalable systems that save time and increase revenue.
+I build systems that not only sell products but also deliver fast, reliable customer support at scale.
